@@ -470,29 +470,5 @@
 
           { "type": "Feature", 
         "geometry": {"type": "Point", "coordinates": [  1.866338,    46.52921 ]}, 
-          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRCE07.jpg' target='_blank'>Saint Denis de Jouhet</a>" }  }, 
-        
-        
-        
-        
-
-      
-        
- 
-        
-         { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  -10.0,    48.0]},
-          "properties": {"Name":"<a href='https://www.fripon.org/?lang=en ' target='_blank'>FRIPON Camera (France)</a>"    }
-      },
-
-            { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  -10.0,    47.0]},
-          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/spip.php?article42' target='_blank'>FRIPON Camera + Radio (Europe)</a>"    }
-      },    
-        
-          { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [  -10.0,    46.0]},
-          "properties": {"marker-color": "#000000","Name":"To be installed"}
-      }
-        
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRCE07.jpg' target='_blank'>Saint Denis de Jouhet</a>" }  }        
     ]}
